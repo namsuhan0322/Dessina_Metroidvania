@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class CharacterStaus : MonoBehaviour
+public class CharacterStatus : MonoBehaviour
 {
     [Header("상태 값 설정")]
     public int hp = 10;                                 // 플레이어 생명
